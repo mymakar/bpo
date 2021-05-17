@@ -13,7 +13,7 @@ To run the model misspecification experiment (with sigmoid outcomes), run
 	```shell
 	python ist_experiment.py --reps "0,1" --sim "sig"
 	```
-To run the heteroskedasticity experiment, run
+	To run the heteroskedasticity experiment, run
 	```shell
 	python ist_experiment.py --reps "0,1" --sim "hsk"
 	```
